@@ -410,6 +410,9 @@ PRODUCT_PACKAGES += \
     audio.primary.sm6150 \
     sound_trigger.primary.sm6150 \
     vendor.qti.hardware.bluetooth_audio@2.0-impl \
+    libAlacSwDec \
+    libApeSwDec \
+    libFlacSwDec \
     libFileMux_proprietary \
     libMpeg4SwEncoder \
     libOmxAacDec \
