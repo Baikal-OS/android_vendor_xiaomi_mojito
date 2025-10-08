@@ -1,0 +1,17 @@
+cc_library {
+    name: "liblhdcBT_enc",
+    vendor_available: true,
+    shared_libs: [],
+    srcs: [],
+    stl: "none",
+    system_ext_specific: true,
+}
+
+cc_library {
+    name: "liblhdcv5BT_enc",
+    vendor_available: true,
+    shared_libs: [],
+    srcs: [],
+    stl: "none",
+    system_ext_specific: true,
+}

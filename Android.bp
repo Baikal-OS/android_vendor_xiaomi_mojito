@@ -5,6 +5,8 @@
 soong_namespace {
 }
 
+subdirs = ["dummy-lhdc"]
+
 cc_prebuilt_library_shared {
 	name: "btaudio_offload_if",
 	owner: "xiaomi",
